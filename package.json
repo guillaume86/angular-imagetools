@@ -1,0 +1,29 @@
+{
+  "name": "angular-imagetools",
+  "version": "0.0.1",
+  "description": "an angular service for images manipulations",
+  "main": "angular-imagetools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guillaume86/angular-imagetools"
+  },
+  "keywords": [
+    "angular",
+    "image",
+    "blur"
+  ],
+  "author": "Guillaume Lecomte <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaume86/angular-imagetools/issues"
+  },
+  "homepage": "https://github.com/guillaume86/angular-imagetools",
+  "devDependencies": {
+    "gulp-concat": "^2.3.5",
+    "gulp-coffee": "^2.2.0",
+    "gulp": "^3.8.7"
+  }
+}

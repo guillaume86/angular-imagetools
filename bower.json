@@ -1,0 +1,25 @@
+{
+  "name": "angular-imagetools",
+  "version": "0.0.1",
+  "authors": [
+    "Guillaume Lecomte <guillaume86@gmail.com>"
+  ],
+  "description": "image manipulation for angular",
+  "main": "dist/angular-imagetools.all.js",
+  "keywords": [
+    "angular",
+    "image",
+    "blur"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "StackBlur": "~0.5.0"
+  }
+}
