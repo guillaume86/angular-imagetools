@@ -5,7 +5,7 @@
     "Guillaume Lecomte <guillaume86@gmail.com>"
   ],
   "description": "image manipulation for angular",
-  "main": "dist/angular-imagetools.all.js",
+  "main": "./dist/angular-imagetools.all.js",
   "keywords": [
     "angular",
     "image",

@@ -2,7 +2,7 @@
   "name": "angular-imagetools",
   "version": "0.0.1",
   "description": "an angular service for images manipulations",
-  "main": "angular-imagetools.js",
+  "main": "./dist/angular-imagetools.all.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
